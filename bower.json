@@ -1,0 +1,17 @@
+{
+  "name": "deadjournal",
+  "description": "A journal app ala Livejournal",
+  "main": "gulpfile.js",
+  "authors": [
+    "L. Devin MacKrell and Kristen Kulha"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

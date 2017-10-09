@@ -1,0 +1,32 @@
+{
+  "name": "deadjournal",
+  "version": "1.0.0",
+  "description": "A journal app ala Livejournal",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacKLess/deadjournal.git"
+  },
+  "author": "L. Devin MacKrell and Kristen Kulha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MacKLess/deadjournal/issues"
+  },
+  "homepage": "https://github.com/MacKLess/deadjournal#readme",
+  "devDependencies": {
+    "bower-files": "^4.0.0",
+    "browser-sync": "^2.18.13",
+    "browserify": "^14.4.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {}
+}
